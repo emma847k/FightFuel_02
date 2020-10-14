@@ -1,0 +1,101 @@
+h1 {
+    color: #3FA8F4;
+    font-size: 2.6rem;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+h2 {
+    color: #3FA8F4;
+    font-size: 1.6rem;
+    font-family: 'Coustard', serif;
+}
+
+#quote {
+    /*background-color: #D8D8D8;*/
+}
+
+.quote {
+    text-transform: uppercase;
+    /*    color: #FFFFFF;*/
+    color: #ffc545;
+}
+
+.hero {
+    background-image: url(img/fightfuel_bg.png);
+    height: 88vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+#udvalg .container {
+    max-width: 100%;
+}
+
+#udvalg h2 {
+    color: #FFFFFF;
+}
+
+.superfrost {
+    background-color: #3fa8f4;
+}
+
+.grapet {
+    background-color: #b076ff;
+}
+
+.watermelone {
+    background-color: #ff5e5e;
+}
+
+.lemonaid {
+    background-color: #ffc545;
+}
+
+#udvalg button {
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+    color: #000000;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#udvalg button:hover {
+    background-color: #D8D8D8;
+    transform: scale(1.2);
+}
+
+#beskrivelse button {
+    border: 2px solid #000000;
+    background-color: #D8D8D8;
+    color: #000000;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#beskrivelse button:hover {
+    background-color: #FFFFFF;
+    transform: scale(1.2);
+}
+
+#original_flavor {
+    background-color: #D8D8D8;
+    background-image: url(img/bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+hr {
+    border: 2px solid #D8D8D8;
+}
+
+#news {
+    background-color: #D8D8D8;
+    background-image: url(img/newflavor.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#news h1 {
+    color: #000000;
+}
